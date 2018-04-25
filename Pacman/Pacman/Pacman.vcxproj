@@ -147,8 +147,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="gotoxy.h" />
+    <ClInclude Include="random.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="wait.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Pacman.cpp" />
